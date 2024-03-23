@@ -12,7 +12,7 @@
    }
    ```
 
-2. Edit class [Lesson](app/src/main/java/org/dii/oop/lesson06/exercise01/Lesson.java) in package `org.dii.oop.lesson06.exercise01` and follow the instructions below:
+2. Edit class [Lesson](app/src/main/java/org/dii/oop/lesson06/exercise01/Lesson01.java) in package `org.dii.oop.lesson06.exercise01` and follow the instructions below:
    - Create a new `super` class name [`Shape`](app/src/main/java/org/dii/oop/lesson06/exercise01/Shape.java) and define the `name` attribute to store the name of the shape, and the `numSide` attribute to store a number of shape sides, the access modifier of these two attributes is `private`.
    - Define the methods of the class `Shape`: `public double getArea()` and `public double getPerimeter()` to return the area and perimeter of its own shape.
    - Create class [`Circle`](app/src/main/java/org/dii/oop/lesson06/exercise01/Circle.java) and make it inherit from the [`Shape`](app/src/main/java/org/dii/oop/lesson06/exercise01/Shape.java) class with its constructor having a parameter for its radius.
