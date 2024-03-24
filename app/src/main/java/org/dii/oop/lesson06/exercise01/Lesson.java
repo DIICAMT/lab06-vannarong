@@ -2,6 +2,8 @@ package org.dii.oop.lesson06.exercise01;
 
 
 
+
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -31,7 +33,7 @@ public class Lesson {
             if ("1".equals(choice)) {
                 System.out.print("Enter radius: ");
                 double strRadius = in.nextDouble();
-                list.add(new Shape1.Circle(strRadius));
+                list.add(new Circle(strRadius));
             }
             if ("2".equals(choice)) {
                 System.out.print("Enter width: ");
