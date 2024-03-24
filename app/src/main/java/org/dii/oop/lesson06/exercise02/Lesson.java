@@ -3,7 +3,7 @@ package org.dii.oop.lesson06.exercise02;
 
 import java.util.Scanner;
 
-public class Lesson02 {
+public class Lesson {
     public static void run() {
         CustomArrayList list = new CustomArrayList();
 
