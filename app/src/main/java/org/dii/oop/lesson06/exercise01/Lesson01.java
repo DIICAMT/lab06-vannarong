@@ -1,6 +1,11 @@
 package org.dii.oop.lesson06.exercise01;
 
 
+import org.dii.oop.lesson06.exercise01.Shape.Circle;
+import org.dii.oop.lesson06.exercise01.Shape.Rectangle;
+import org.dii.oop.lesson06.exercise01.Shape.Shape;
+import org.dii.oop.lesson06.exercise01.Shape.Square;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

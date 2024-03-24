@@ -1,4 +1,4 @@
-package org.dii.oop.lesson06.exercise01;
+package org.dii.oop.lesson06.exercise01.Shape;
 import java.util.*;
 public class Shape {
     private String name;
